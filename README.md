@@ -37,7 +37,7 @@ O sistema de controle utiliza os sensores (ultrassônico e infravermelho) para d
 * **Versionamento:** Git e GitHub.
 
 ## Protótipo realizado no Tinkercad Circuits
-![](Circuito_Tinkercad.png)
+![]((IMAGEM)Circuito_Tinkercad.png)
 
 ### Observações
 Para a realização dos testes virtuais, foi preciso realizar algumas alterações do circuito real para o circuito virtual:
@@ -48,7 +48,7 @@ Para a realização dos testes virtuais, foi preciso realizar algumas alteraçõ
 - **Não** é possível utilizar a **biblioteca NewPing**.
 
 ## Imagem do Sumô Autônomo Finalizado
-![](Sumo_autonomo_finalizado.jpeg)
+![]((IMAGEM)Sumo_autonomo_finalizado.jpeg)
 
 ## Futuras melhorias
 * Aprimorar a identificação e a localização do oponente por meio do sensor ultrassônico.
